@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Peyman Shobeiri</h1>
 
-- 🔭 I’m currently working on **Workflow Scheduling On Cloud**
+- 🔭 I’m currently working on **distributed systems and cloud/edge computing **
 
 - 💬 Ask me about **Cloud Computing, Software Engineering & Design**
 
-- 📫 How to reach me **peymanshobeiri2020@gmail.com**
+- 📫 How to reach me **peymanshobeiri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
