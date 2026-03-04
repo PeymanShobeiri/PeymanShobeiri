@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Peyman Shobeiri</h1>
 
-- 🔭 I’m currently working on **distributed systems and cloud/edge computing **
+- 🔭 I’m currently working on **distributed systems and cloud/edge computing**
 
 - 💬 Ask me about **Cloud Computing, Software Engineering & Design**
 
